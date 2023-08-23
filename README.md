@@ -1,0 +1,2 @@
+!`uvicorn val:app --reload`
+
